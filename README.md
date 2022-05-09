@@ -1,1 +1,1 @@
-# SimpleString that adds first and last name to output fullname
+SimpleString that adds first and last name to output fullname
